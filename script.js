@@ -37,7 +37,7 @@ function calcular() {
   
   Somando todos os valores temos ${soma}
   
-  A média dos valores digitas é ${soma/lista.length}`
+  A média dos valores digitados é ${soma/lista.length}`
   lista = []
   caixa.appendChild(paragrafo)
 }
